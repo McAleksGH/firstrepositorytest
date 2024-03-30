@@ -11,4 +11,6 @@ func main() {
 
 	fmt.Print("hello everybody", a)
 	fmt.Print("hello everybody", a, "and have a nice day")
+	fmt.Print("and have a nice day")
+
 }
