@@ -9,5 +9,6 @@ func main() {
 
 	fmt.Print(a)
 
-	fmt.Print("hello and", a)
+	fmt.Print("hello everybody", a)
+	fmt.Print("hello everybody", a, "and have a nice day")
 }
